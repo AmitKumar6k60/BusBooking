@@ -1,4 +1,4 @@
-# Bus Ticket Booking Portal
+# Tansportaion Portal
 
 The Bus Ticket Booking Portal is a user-friendly platform designed for students and faculty to effortlessly manage bus ticket reservations. This system allows users to book, cancel, and view tickets with real-time database updates, ensuring accurate and efficient seat availability.
 
